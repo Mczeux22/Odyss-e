@@ -1,3 +1,4 @@
+- Notion roadmap
 - Compilation et lancement du .server on navigator
 - Register/login system + database save
 - Add mail verification
