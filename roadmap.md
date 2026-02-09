@@ -4,3 +4,7 @@
 - Add mail verification
 - Server choice system (1 / 2)
 - Coming Soon ...
+<<<<<<< HEAD
+=======
+- 
+>>>>>>> refs/remotes/origin/main
