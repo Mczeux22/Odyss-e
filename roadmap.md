@@ -4,7 +4,3 @@
 - Add mail verification
 - Server choice system (1 / 2)
 - Coming Soon ...
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> ffbb6cc (add dossier map)
