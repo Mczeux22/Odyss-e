@@ -6,3 +6,27 @@
  * @ Description:
  */
 
+#ifndef LIB_H
+#define LIB_H
+
+// Include globaux
+
+#include <asio.hpp>
+#include <stdio.h>
+
+// AA
+
+// Includes d'autre dossier
+
+#include "utils.h"
+#include "web.h"
+
+// Fonction
+
+// AA
+
+//CLass
+
+//AA
+
+#endif

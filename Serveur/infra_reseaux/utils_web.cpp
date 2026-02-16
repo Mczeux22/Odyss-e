@@ -6,3 +6,14 @@
  * @ Description:
  */
 
+#include "web.h"
+
+void	Server::run()
+{
+	return 0;
+}
+
+int	Server::port() const
+{
+	return(port_)
+}

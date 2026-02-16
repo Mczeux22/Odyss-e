@@ -6,3 +6,12 @@
  * @ Description:
  */
 
+#include "Include/lib.h"
+
+int	main(void)
+{
+	asio::io_context io;
+	// phase d'inialisation
+	Server server(io, 2121); // port du serveur
+	server.run();
+}

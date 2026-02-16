@@ -6,3 +6,9 @@
  * @ Description:
  */
 
+#include "web.h"
+
+int	main_reseaux()
+{
+	return	(0);
+}

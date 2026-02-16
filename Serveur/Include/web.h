@@ -16,14 +16,28 @@
 
 // Utils
 
+//int
 
+//void
+
+// const
 
 // Fonction infra
 
-
+int	main_reseaux();
 
 // Structures
 
+//class
 
+class	Server
+{
+	public:
+		server(int port)
+		void run(io.run)
+	private:
+		int	port_;
+		asio::io_context io;
+};
 
 #endif
