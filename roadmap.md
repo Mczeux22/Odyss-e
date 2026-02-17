@@ -1,5 +1,6 @@
 - Notion roadmap
 - Compilation et lancement du .server on navigator
+- Changement de methode utilisation d'un makefile pour le moment plus qu'un Cmakefile
 - Register/login system + database save
 - Add mail verification
 - Server choice system (1 / 2)
