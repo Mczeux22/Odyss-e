@@ -1,5 +1,11 @@
+/**
+ * @ Author: Lopapon
+ * @ Create Time: 2026-02-16 21:53:58
+ * @ Modified by: Lopapon
+ * @ Modified time: 2026-02-17 17:01:43
+ * @ Description:
+ */
 #include "console.h"
-#include "libft.h"
 
 int	ft_strcmp(const char *s1, const char *s2)
 {

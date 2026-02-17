@@ -2,7 +2,7 @@
  * @ Author: Lopapon
  * @ Create Time: 2026-02-13 17:58:52
  * @ Modified by: Lopapon
- * @ Modified time: 2026-02-13 17:59:00
+ * @ Modified time: 2026-02-17 17:07:54
  * @ Description:
  */
 
@@ -10,34 +10,18 @@
 #define WEB_H
 
 // Library
-
+#include <asio.hpp>
 #include "lib.h"
 
-
-// Utils
-
-//int
-
-//void
-
-// const
-
-// Fonction infra
-
-int	main_reseaux();
-
-// Structures
-
 //class
-
-class	Server
+class Server
 {
 	public:
-		server(int port)
-		void run(io.run)
+		Server(int port);	// Constructeur : même nom que la classe
+		void run();	// Méthode run sans paramètre (utilise le membre `io`)
 	private:
-		int	port_;
-		asio::io_context io;
+		int port_;
+		asio::io_context io;  // Membre de la classe
 };
 
 #endif
