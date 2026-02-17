@@ -2,7 +2,7 @@
  * @ Author: Lopapon
  * @ Create Time: 2026-02-16 21:53:58
  * @ Modified by: Lopapon
- * @ Modified time: 2026-02-17 17:01:31
+ * @ Modified time: 2026-02-17 23:59:03
  * @ Description:
  */
 #include "console.h"
@@ -46,7 +46,7 @@ int	main_console(int player_id, int command_id, int nb)
 	{
 		printf("%s", "You dont have permission to do that");
 	}
-	if()
+	//if()
 }
 
 int	main()
