@@ -1,6 +1,3 @@
 # Odyss-e
 
 gge like
-  
-  
-   
